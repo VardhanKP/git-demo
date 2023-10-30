@@ -6,3 +6,6 @@ This is the first file in this repo
 
 If you are using GIT BASH on Windows PC - then to open a text file, type start notepad.txt
 This is adding thri=ough Command
+
+
+##Created a html File through GIT
