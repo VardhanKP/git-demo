@@ -1,0 +1,1 @@
+First, we create an empty text file (you can create the file any way you like, not necessarily with the touch command). Then we add all new and modified files to the Git index (we tell Git which files we want to commit on the next commit). And finally we commit the changes with a message.
